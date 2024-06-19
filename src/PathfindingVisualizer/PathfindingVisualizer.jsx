@@ -83,8 +83,8 @@ export default class PathfindingVisualizer extends Component {
         <div className="nav">
 <div className="left">Djikstra Pathfinding Visualizer</div>
 <div className="right">
-<div><a href="">docs</a></div>
-<div><a href="">blog</a></div>
+<div><a href="https://example.com">docs</a></div>
+<div><a href="https://example.com">blog</a></div>
 </div>
         </div>
 
